@@ -1,5 +1,5 @@
 #loginPage h1::after {
-  content: "Please sign in";
+  content: "Login";
   font-size: 30px;
 }
 
