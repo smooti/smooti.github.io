@@ -3,9 +3,9 @@
   font-size: 30px;
 }
 
-/* .padded-left.padded-right.flex.align-items-center.justify-content-center {
+.padded-left.padded-right.flex.align-items-center.justify-content-center {
 
-	background-image: url(https://i.imgur.com/qn367L8.png);
+	background-image: url("https://unsplash.com/photos/a-dimly-lit-restaurant-with-tables-and-chairs-gnWhPEh_i7s");
 	background-size: contain;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -14,4 +14,4 @@
 	height: 500px;
 
 
-} */
+}
